@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="121a3890-721f-4cab-a9f3-3886420c8ef1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ABSphreak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AVS1508" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/.idea/course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/conf/course.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/conf/myConf_pro.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/conf/myConf_test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/config/config.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/course.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/dal/dal.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/dal/init.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/dal/model.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/data/util.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/handle/login.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/handle/root_countmanage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/handle/root_datamanage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/handle/user.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/handler/actions.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/handler/login.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/handler/normal/count_manage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/handler/normal/data_query.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/handler/root/count_manage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/handler/root/data_manage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/handler/statusinfo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/handler/testupdownload.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/logs/logs.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/request/rootCount_data_request.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/request/rootCount_user_request.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/request/userCount_request.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/response/commonresponse.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/response/rootCount_data_response.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/response/rootCount_user_response.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/response/statusinfo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/response/userCount_response.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/utils/statusInfo.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/utils/util.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/.idea/gin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go-zero" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../guoyuanchao1202" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add/Add_amd64.s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/add/add.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logruslearning/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logruslearning/.idea/logruslearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logruslearning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logruslearning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logruslearning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logruslearning/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logruslearning/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logruslearning/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../logruslearning/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../timburgan" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1rghwDmUdN2yCsE4GO6KDg1OE7y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GoWorks\src\learningGolang\add" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build learningGolang" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learningGolang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="learningGolang" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build learningGolang" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io,direct</proxy>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://C:/Go/src/fmt/print.go</url>
+          <line>136</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
