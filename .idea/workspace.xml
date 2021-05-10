@@ -52,10 +52,15 @@
       <change afterPath="$PROJECT_DIR$/../gin/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../go-zero" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../guoyuanchao1202" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/add/Add_amd64.s" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/add/add.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/learningGolang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slicelearning/ch1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slicelearning/ch1.o" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../logruslearning/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../logruslearning/.idea/logruslearning.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../logruslearning/.idea/misc.xml" afterDir="false" />
@@ -65,7 +70,20 @@
       <change afterPath="$PROJECT_DIR$/../logruslearning/go.sum" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../logruslearning/log.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../logruslearning/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notMod/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notMod/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notMod/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notMod/.idea/notMod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notMod/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notMod/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notMod/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../notMod/test/myonlytest.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../timburgan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/add/Add_amd64.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add/add.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,9 +98,9 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="C:\Go" />
+  <component name="GOROOT" path="$PROJECT_DIR$/../go" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rghwDmUdN2yCsE4GO6KDg1OE7y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -91,13 +109,17 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="go.sdk" />
   </component>
   <component name="RecentsManager">
@@ -117,18 +139,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build learningGolang">
     <configuration name="go build learningGolang" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="learningGolang" />
       <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-gcflags=&quot;-N -l&quot;" />
+      <parameters value="-gcflags=&quot;-N -l&quot;" />
+      <envs>
+        <env name="-gcflags" value="&quot;-N -l&quot;" />
+      </envs>
       <kind value="PACKAGE" />
       <filePath value="$PROJECT_DIR$/main.go" />
       <package value="learningGolang" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="learningGolang" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build learningGolang" />
+      <item itemvalue="Go Build.go build main.go" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build learningGolang" />
+        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +179,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -160,11 +201,6 @@
           <url>file://C:/Go/src/fmt/print.go</url>
           <line>136</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/main.go</url>
-          <line>8</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
